@@ -7,6 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9502D7EE1CAB31A000F3ED3E /* ep_splash.png in Resources */ = {isa = PBXBuildFile; fileRef = 9502D7ED1CAB31A000F3ED3E /* ep_splash.png */; };
+		9503B9821CA04B9100585081 /* info1-01.png in Resources */ = {isa = PBXBuildFile; fileRef = 9503B9811CA04B9100585081 /* info1-01.png */; };
+		9503B9841CA04B9B00585081 /* info2-01.png in Resources */ = {isa = PBXBuildFile; fileRef = 9503B9831CA04B9B00585081 /* info2-01.png */; };
+		9503B9881CA094DC00585081 /* HomePageController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9503B9871CA094DC00585081 /* HomePageController.swift */; };
+		9503B98A1CA09C5A00585081 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9503B9891CA09C5A00585081 /* HomeViewController.swift */; };
+		9503B9981CA434B200585081 /* splitButtonImage-01.png in Resources */ = {isa = PBXBuildFile; fileRef = 9503B9971CA434B200585081 /* splitButtonImage-01.png */; };
+		9503B99A1CA434BD00585081 /* loadButtonImage-01.png in Resources */ = {isa = PBXBuildFile; fileRef = 9503B9991CA434BD00585081 /* loadButtonImage-01.png */; };
+		9503B99C1CA434C200585081 /* splitButtonImage.png in Resources */ = {isa = PBXBuildFile; fileRef = 9503B99B1CA434C200585081 /* splitButtonImage.png */; };
+		9503B99E1CA434F600585081 /* startButtonImage-01.png in Resources */ = {isa = PBXBuildFile; fileRef = 9503B99D1CA434F600585081 /* startButtonImage-01.png */; };
+		9503B9A01CA4376200585081 /* options-header.png in Resources */ = {isa = PBXBuildFile; fileRef = 9503B99F1CA4376200585081 /* options-header.png */; };
+		9503B9A21CA437C000585081 /* options_header-01.png in Resources */ = {isa = PBXBuildFile; fileRef = 9503B9A11CA437C000585081 /* options_header-01.png */; };
+		9503B9A61CA4770300585081 /* playButtonImage-01.png in Resources */ = {isa = PBXBuildFile; fileRef = 9503B9A51CA4770300585081 /* playButtonImage-01.png */; };
+		9503B9A81CA591A600585081 /* ModalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9503B9A71CA591A600585081 /* ModalViewController.swift */; };
+		9503B9AA1CA5976F00585081 /* DimBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9503B9A91CA5976F00585081 /* DimBackground.swift */; };
 		955793211C6AA5AB00F7B7AA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 955793201C6AA5AB00F7B7AA /* AppDelegate.swift */; };
 		955793231C6AA5AB00F7B7AA /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 955793221C6AA5AB00F7B7AA /* FirstViewController.swift */; };
 		955793251C6AA5AB00F7B7AA /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 955793241C6AA5AB00F7B7AA /* SecondViewController.swift */; };
@@ -15,6 +29,11 @@
 		9557932D1C6AA5AB00F7B7AA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9557932B1C6AA5AB00F7B7AA /* LaunchScreen.storyboard */; };
 		955793381C6AA5AB00F7B7AA /* EvolveSwiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 955793371C6AA5AB00F7B7AA /* EvolveSwiftTests.swift */; };
 		955793431C6AA5AB00F7B7AA /* EvolveSwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 955793421C6AA5AB00F7B7AA /* EvolveSwiftUITests.swift */; };
+		955793531C6BC2B400F7B7AA /* evolve2.tif in Resources */ = {isa = PBXBuildFile; fileRef = 955793521C6BC2B400F7B7AA /* evolve2.tif */; };
+		955793561C6BC62900F7B7AA /* newPSU.png in Resources */ = {isa = PBXBuildFile; fileRef = 955793551C6BC62900F7B7AA /* newPSU.png */; };
+		9557935E1C6CE0B200F7B7AA /* loadImage4-01.png in Resources */ = {isa = PBXBuildFile; fileRef = 9557935D1C6CE0B200F7B7AA /* loadImage4-01.png */; };
+		955793621C72218300F7B7AA /* loadImage_EV-01.png in Resources */ = {isa = PBXBuildFile; fileRef = 955793611C72218300F7B7AA /* loadImage_EV-01.png */; };
+		955793641C96308000F7B7AA /* dna_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 955793631C96308000F7B7AA /* dna_logo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +54,21 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9502D7ED1CAB31A000F3ED3E /* ep_splash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ep_splash.png; sourceTree = "<group>"; };
+		9503B9811CA04B9100585081 /* info1-01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "info1-01.png"; sourceTree = "<group>"; };
+		9503B9831CA04B9B00585081 /* info2-01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "info2-01.png"; sourceTree = "<group>"; };
+		9503B9871CA094DC00585081 /* HomePageController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomePageController.swift; sourceTree = "<group>"; };
+		9503B9891CA09C5A00585081 /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		9503B9971CA434B200585081 /* splitButtonImage-01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "splitButtonImage-01.png"; sourceTree = "<group>"; };
+		9503B9991CA434BD00585081 /* loadButtonImage-01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "loadButtonImage-01.png"; sourceTree = "<group>"; };
+		9503B99B1CA434C200585081 /* splitButtonImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = splitButtonImage.png; sourceTree = "<group>"; };
+		9503B99D1CA434F600585081 /* startButtonImage-01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "startButtonImage-01.png"; sourceTree = "<group>"; };
+		9503B99F1CA4376200585081 /* options-header.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "options-header.png"; sourceTree = "<group>"; };
+		9503B9A11CA437C000585081 /* options_header-01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "options_header-01.png"; sourceTree = "<group>"; };
+		9503B9A51CA4770300585081 /* playButtonImage-01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "playButtonImage-01.png"; sourceTree = "<group>"; };
+		9503B9A71CA591A600585081 /* ModalViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ModalViewController.swift; sourceTree = "<group>"; };
+		9503B9A91CA5976F00585081 /* DimBackground.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DimBackground.swift; sourceTree = "<group>"; };
+		9509E2AB1E60D0FD00CA941C /* EvolveSwift.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = EvolveSwift.entitlements; sourceTree = "<group>"; };
 		9557931D1C6AA5AB00F7B7AA /* EvolveSwift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EvolveSwift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		955793201C6AA5AB00F7B7AA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		955793221C6AA5AB00F7B7AA /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
@@ -49,6 +83,11 @@
 		9557933E1C6AA5AB00F7B7AA /* EvolveSwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EvolveSwiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		955793421C6AA5AB00F7B7AA /* EvolveSwiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EvolveSwiftUITests.swift; sourceTree = "<group>"; };
 		955793441C6AA5AB00F7B7AA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		955793521C6BC2B400F7B7AA /* evolve2.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = evolve2.tif; sourceTree = "<group>"; };
+		955793551C6BC62900F7B7AA /* newPSU.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = newPSU.png; sourceTree = "<group>"; };
+		9557935D1C6CE0B200F7B7AA /* loadImage4-01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "loadImage4-01.png"; sourceTree = "<group>"; };
+		955793611C72218300F7B7AA /* loadImage_EV-01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "loadImage_EV-01.png"; sourceTree = "<group>"; };
+		955793631C96308000F7B7AA /* dna_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dna_logo.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,13 +138,19 @@
 		9557931F1C6AA5AB00F7B7AA /* EvolveSwift */ = {
 			isa = PBXGroup;
 			children = (
+				9509E2AB1E60D0FD00CA941C /* EvolveSwift.entitlements */,
 				955793201C6AA5AB00F7B7AA /* AppDelegate.swift */,
 				955793221C6AA5AB00F7B7AA /* FirstViewController.swift */,
-				955793241C6AA5AB00F7B7AA /* SecondViewController.swift */,
+				9503B9871CA094DC00585081 /* HomePageController.swift */,
+				9503B9891CA09C5A00585081 /* HomeViewController.swift */,
 				955793261C6AA5AB00F7B7AA /* Main.storyboard */,
+				9503B9A91CA5976F00585081 /* DimBackground.swift */,
+				9503B9A71CA591A600585081 /* ModalViewController.swift */,
+				955793241C6AA5AB00F7B7AA /* SecondViewController.swift */,
 				955793291C6AA5AB00F7B7AA /* Assets.xcassets */,
 				9557932B1C6AA5AB00F7B7AA /* LaunchScreen.storyboard */,
 				9557932E1C6AA5AB00F7B7AA /* Info.plist */,
+				955793541C6BC2C000F7B7AA /* Graphics */,
 			);
 			path = EvolveSwift;
 			sourceTree = "<group>";
@@ -126,6 +171,28 @@
 				955793441C6AA5AB00F7B7AA /* Info.plist */,
 			);
 			path = EvolveSwiftUITests;
+			sourceTree = "<group>";
+		};
+		955793541C6BC2C000F7B7AA /* Graphics */ = {
+			isa = PBXGroup;
+			children = (
+				955793521C6BC2B400F7B7AA /* evolve2.tif */,
+				9557935D1C6CE0B200F7B7AA /* loadImage4-01.png */,
+				9503B99F1CA4376200585081 /* options-header.png */,
+				9503B9831CA04B9B00585081 /* info2-01.png */,
+				9502D7ED1CAB31A000F3ED3E /* ep_splash.png */,
+				9503B9811CA04B9100585081 /* info1-01.png */,
+				9503B9991CA434BD00585081 /* loadButtonImage-01.png */,
+				9503B9A51CA4770300585081 /* playButtonImage-01.png */,
+				9503B9A11CA437C000585081 /* options_header-01.png */,
+				9503B99B1CA434C200585081 /* splitButtonImage.png */,
+				9503B99D1CA434F600585081 /* startButtonImage-01.png */,
+				9503B9971CA434B200585081 /* splitButtonImage-01.png */,
+				955793631C96308000F7B7AA /* dna_logo.png */,
+				955793611C72218300F7B7AA /* loadImage_EV-01.png */,
+				955793551C6BC62900F7B7AA /* newPSU.png */,
+			);
+			name = Graphics;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -196,16 +263,25 @@
 				TargetAttributes = {
 					9557931C1C6AA5AB00F7B7AA = {
 						CreatedOnToolsVersion = 7.2.1;
-						DevelopmentTeam = HT3L87G843;
+						DevelopmentTeam = BLJC8N6ASU;
+						LastSwiftMigration = 0810;
+						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.Keychain = {
+								enabled = 0;
+							};
+						};
 					};
 					955793321C6AA5AB00F7B7AA = {
 						CreatedOnToolsVersion = 7.2.1;
 						DevelopmentTeam = HT3L87G843;
+						LastSwiftMigration = 0810;
 						TestTargetID = 9557931C1C6AA5AB00F7B7AA;
 					};
 					9557933D1C6AA5AB00F7B7AA = {
 						CreatedOnToolsVersion = 7.2.1;
 						DevelopmentTeam = HT3L87G843;
+						LastSwiftMigration = 0810;
 						TestTargetID = 9557931C1C6AA5AB00F7B7AA;
 					};
 				};
@@ -235,9 +311,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9503B99C1CA434C200585081 /* splitButtonImage.png in Resources */,
+				9503B9821CA04B9100585081 /* info1-01.png in Resources */,
+				955793561C6BC62900F7B7AA /* newPSU.png in Resources */,
+				9503B99E1CA434F600585081 /* startButtonImage-01.png in Resources */,
+				9503B99A1CA434BD00585081 /* loadButtonImage-01.png in Resources */,
+				9502D7EE1CAB31A000F3ED3E /* ep_splash.png in Resources */,
 				9557932D1C6AA5AB00F7B7AA /* LaunchScreen.storyboard in Resources */,
+				9503B9841CA04B9B00585081 /* info2-01.png in Resources */,
+				9503B9981CA434B200585081 /* splitButtonImage-01.png in Resources */,
+				955793641C96308000F7B7AA /* dna_logo.png in Resources */,
+				9503B9A01CA4376200585081 /* options-header.png in Resources */,
+				9503B9A61CA4770300585081 /* playButtonImage-01.png in Resources */,
+				9503B9A21CA437C000585081 /* options_header-01.png in Resources */,
 				9557932A1C6AA5AB00F7B7AA /* Assets.xcassets in Resources */,
+				955793621C72218300F7B7AA /* loadImage_EV-01.png in Resources */,
+				9557935E1C6CE0B200F7B7AA /* loadImage4-01.png in Resources */,
 				955793281C6AA5AB00F7B7AA /* Main.storyboard in Resources */,
+				955793531C6BC2B400F7B7AA /* evolve2.tif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -263,8 +354,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				955793251C6AA5AB00F7B7AA /* SecondViewController.swift in Sources */,
+				9503B9881CA094DC00585081 /* HomePageController.swift in Sources */,
 				955793211C6AA5AB00F7B7AA /* AppDelegate.swift in Sources */,
 				955793231C6AA5AB00F7B7AA /* FirstViewController.swift in Sources */,
+				9503B9A81CA591A600585081 /* ModalViewController.swift in Sources */,
+				9503B98A1CA09C5A00585081 /* HomeViewController.swift in Sources */,
+				9503B9AA1CA5976F00585081 /* DimBackground.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -406,10 +501,15 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = BLJC8N6ASU;
 				INFOPLIST_FILE = EvolveSwift/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = PennState.EvolveSwift;
+				PRODUCT_BUNDLE_IDENTIFIER = PennState.EvolveSwift2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -417,10 +517,15 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = BLJC8N6ASU;
 				INFOPLIST_FILE = EvolveSwift/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = PennState.EvolveSwift;
+				PRODUCT_BUNDLE_IDENTIFIER = PennState.EvolveSwift2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
@@ -432,6 +537,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = PennState.EvolveSwiftTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/EvolveSwift.app/EvolveSwift";
 			};
 			name = Debug;
@@ -444,6 +550,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = PennState.EvolveSwiftTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/EvolveSwift.app/EvolveSwift";
 			};
 			name = Release;
@@ -455,6 +562,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = PennState.EvolveSwiftUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_TARGET_NAME = EvolveSwift;
 				USES_XCTRUNNER = YES;
 			};
@@ -467,6 +575,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = PennState.EvolveSwiftUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_TARGET_NAME = EvolveSwift;
 				USES_XCTRUNNER = YES;
 			};
@@ -491,6 +600,7 @@
 				955793491C6AA5AB00F7B7AA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9557934A1C6AA5AB00F7B7AA /* Build configuration list for PBXNativeTarget "EvolveSwiftTests" */ = {
 			isa = XCConfigurationList;
@@ -499,6 +609,7 @@
 				9557934C1C6AA5AB00F7B7AA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9557934D1C6AA5AB00F7B7AA /* Build configuration list for PBXNativeTarget "EvolveSwiftUITests" */ = {
 			isa = XCConfigurationList;
@@ -507,6 +618,7 @@
 				9557934F1C6AA5AB00F7B7AA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

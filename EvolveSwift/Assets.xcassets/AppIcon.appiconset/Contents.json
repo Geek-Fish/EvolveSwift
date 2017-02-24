@@ -2,32 +2,54 @@
   "images" : [
     {
       "idiom" : "ipad",
-      "size" : "29x29",
+      "size" : "20x20",
       "scale" : "1x"
     },
     {
       "idiom" : "ipad",
-      "size" : "29x29",
+      "size" : "20x20",
       "scale" : "2x"
     },
     {
+      "size" : "29x29",
       "idiom" : "ipad",
-      "size" : "40x40",
+      "filename" : "ep_ios5_1x-1.png",
       "scale" : "1x"
     },
     {
+      "size" : "29x29",
       "idiom" : "ipad",
-      "size" : "40x40",
+      "filename" : "ep_ios5_2x-1.png",
       "scale" : "2x"
     },
     {
+      "size" : "40x40",
       "idiom" : "ipad",
-      "size" : "76x76",
+      "filename" : "ep_iosSP_1x-1.png",
       "scale" : "1x"
     },
     {
+      "size" : "40x40",
       "idiom" : "ipad",
+      "filename" : "ep_iosSP_2x-1.png",
+      "scale" : "2x"
+    },
+    {
       "size" : "76x76",
+      "idiom" : "ipad",
+      "filename" : "ep_ios7_1x-1.png",
+      "scale" : "1x"
+    },
+    {
+      "size" : "76x76",
+      "idiom" : "ipad",
+      "filename" : "ep_ios7_2x-1.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "83.5x83.5",
+      "idiom" : "ipad",
+      "filename" : "ep_ios9_pro-1.png",
       "scale" : "2x"
     }
   ],
