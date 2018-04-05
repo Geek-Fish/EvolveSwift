@@ -52,18 +52,18 @@ class FirstViewController: UIViewController {
         self.backImageView.isUserInteractionEnabled = false
         self.view.isUserInteractionEnabled = false
         
-        /*
-        if let dir : NSString = NSSearchPathForDirectoriesInDomains(NSSearchPathDirectory.DocumentDirectory, NSSearchPathDomainMask.AllDomainsMask, true).first {
-            let path = dir.stringByAppendingPathComponent(self.file);
+        
+        if let dir : NSString = (NSSearchPathForDirectoriesInDomains(FileManager.SearchPathDirectory.documentDirectory, FileManager.SearchPathDomainMask.allDomainsMask, true).first! as NSString) {
+            let path = dir.appendingPathComponent(self.file);
             do {
                 let text = ""
-                try text.writeToFile(path, atomically: false, encoding: NSUTF8StringEncoding)
+                try text.write(toFile: path, atomically: false, encoding: String.Encoding.utf8)
             }
             catch let error as NSError {
                 NSLog("Something went wrong: \(error)")
             }
         }
-        */
+ 
 
 
     }
